@@ -1,4 +1,4 @@
-# Samsung RISC-V Internship Repository
+# Samsung RISC-V Architechture Program
 
 Welcome to the Samsung RISC-V Internship Repository! This repository documents my journey and progress throughout the RISC-V internship program, focusing on various tasks and projects related to the RISC-V architecture.
 
@@ -10,8 +10,8 @@ Welcome to the Samsung RISC-V Internship Repository! This repository documents m
 
 ### Repository Overview
 This repository is organized into several tasks, each designed to enhance understanding and proficiency with RISC-V architecture and its applications. Below is a summary of each task:
-
-### Task 1: Environment Setup and Basic Programming
+<details>
+<summary><b>Task 1:</b> Environment Setup and Basic Programming</summary><br>
 
 - **Objective:** Set up the development environment and write a simple program.
 - **Details:**
@@ -20,8 +20,10 @@ This repository is organized into several tasks, each designed to enhance unders
   - -  ![Environment Setup](https://github.com/manoj26may/Samsung-risc-v/blob/main/Task%201/Leafpad%20installation.png)
   - Developed a program to calculate the sum of numbers from 1 to *n*.
   - ![Environment Setup](https://github.com/manoj26may/Samsung-risc-v/blob/main/Task%201/input%20and%20output%20for%20sum1ton.png)
+</details>
  
-### Task 2: SPIKE Simulation
+<details>
+<summary><b>Task 2:</b> SPIKE Simulation</summary><br>
 
 - **Objective:** Learn to use SPIKE, the RISC-V ISA simulator.
 - **Details:**
@@ -29,18 +31,21 @@ This repository is organized into several tasks, each designed to enhance unders
   - ![SPIKE Simulation](https://github.com/manoj26may/Samsung-risc-v/blob/main/Task-2/spike.png)
   - Ran sample RISC-V programs to understand the simulation process.
   -   ![SPIKE Simulation](https://github.com/manoj26may/Samsung-risc-v/blob/main/Task-2/Sum1ton.c.png)
+</details>
 
-
-### Task 3: RISC-V Toolchain and Assembly Programming
+<details>
+<summary><b>Task 3:</b> RISC-V Toolchain and Assembly Programming</summary><br>
 
 - **Objective:** Explore the RISC-V GNU Compiler Toolchain and write assembly programs.
 - **Details:**
   - Installed the RISC-V GNU Compiler Toolchain.
   - Wrote and compiled simple RISC-V assembly programs.
   - Analyzed the output and behavior of the programs on the RISC-V simulator.
-  - ![Task 3](https://github.com/manoj26may/Samsung-risc-v/blob/main/Task-3/TASK%203.md)
+  - [Task 3](https://github.com/manoj26may/Samsung-risc-v/blob/main/Task-3/TASK%203.md)
+   </details>
 
-### Task 4: RISC-V C Programming and Debugging
+<details>
+<summary><b>Task 4:</b> RISC-V C Programming and Debugging </summary><br>
 
 - **Objective:** Write and debug C programs for the RISC-V architecture.
 - **Details:**
@@ -48,20 +53,25 @@ This repository is organized into several tasks, each designed to enhance unders
   - Used debugging tools to troubleshoot and optimize code performance.
 - **Image:**
   ![C Programming](https://github.com/manoj26may/Samsung-risc-v/blob/main/Task4/task4_rv32i.v.png)
+  </details>
 
-### Task 5: Blinking LED project using VSD Squadron mini board
+<details>
+<summary><b>Task 5:</b> Blinking LED project using VSD Squadron mini board</summary><br>
 
 - **Objective:** Programing the RISC-V board to blink a LED
 - **Details:**
   - Explored to program the RISC-V Board.
   - Wrote blinking LED programs to run directly on RISC-V hardware without an operating system.
+</details>
 
-### Task 6: Motion detector using VSD Squadron mini board
+<details>
+<summary><b>Task 6:</b> Motion detector using VSD Squadron mini board</summary><br>
 
 - **Objective:** Programing the RISC-V board to detect motion by using PIR sensor
 - **Details:**
   - Explored to program the RISC-V Board.
   - Wrote Motion detector programs to run directly on RISC-V hardware without an operating system.
+</details>
 
 ### Additional Resources
 
