@@ -6,7 +6,7 @@ Welcome to the Samsung RISC-V Internship Repository! This repository documents m
 
 **Name:** Manoj Manjunath Bhat  
 **Email:** mmbhat948@gmail.com  
-**LinkedIn:** [Manoj Manjunath Bhat](https://www.linkedin.com/in/manoj-manjunath-bhat)
+**LinkedIn:** [Manoj Manjunath Bhat](https://www.linkedin.com/in/manoj-m-bhat-4b2a632b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ### Repository Overview
 This repository is organized into several tasks, each designed to enhance understanding and proficiency with RISC-V architecture and its applications. Below is a summary of each task:
